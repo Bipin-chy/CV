@@ -1,0 +1,13 @@
+body{
+  background-color: #75daad;
+}
+.center{
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #032d3c;
+  color: whitesmoke;
+}
+img{
+  border-radius:150px;
+}

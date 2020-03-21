@@ -19,6 +19,7 @@ img{
 }
 p{
   margin-left: 20px;
+  display:inline-block;
 }
 tr{
   margin-left: 20px;
